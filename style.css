@@ -1,0 +1,9 @@
+#gameCanvas {
+    border: 1px solid black;
+    background-color: #000000;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+}
