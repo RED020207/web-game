@@ -6,5 +6,6 @@ Uses an SQLite to securely store usernames, hashed passwords & high scores.
 Relies on Flask framework from Python to hold it all together, including management of logins and logouts.
 
 Future Goals:
-1. Further polish web pages & UI.
-2. Add a live leaderboard system.
+1. Finish incomplete code.
+2. Further polish web pages & UI.
+3. Add a live leaderboard system.
